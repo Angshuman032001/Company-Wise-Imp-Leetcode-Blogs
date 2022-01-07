@@ -1,0 +1,30 @@
+https://leetcode.com/discuss/interview-experience/1669286/google-new-grad-2022-india-pending
+
+I recently gave Interviews for 2022 graduate Software Engineer position in Google India. I can't reveal the exact problems because it's not allowed but can share some ideas.
+
+My process started in Oct 2021. There was no OA. Recruiter directly contacted me via mail.
+I was asked to share-
+1)Updated Resume
+2)Preferred Coding Language:
+3)My availability for interviews
+
+After resume screening, recruiter conducted small meeting to explain the process. The process is as follows-
+
+Telephonic Screening (45 min technical)
+Two Virtual Onsite Rounds (1st Round- 45 min technical; 2nd Round- 45 min tech + 15 min GNL)
+Final Virtual Onsite Round (45 min tech + 15 min GNL)
+All the above rounds were conducted on Google Meet and shared coding doc was used. It wasn't Google Docs but their internal coding doc specifically for interviews. It had no auto-completion but had slight color highlighting and proper indentation.
+
+1. Telephonic Round (Oct 2021)- It was pretty much same as Onsite rounds. Just the name is different. I was asked a Geometry Problem. Told him a brute force solution first verbally because that's the first thing that came in my mind. He wanted me to optimize it. After thinking for some time, I gave him an optimized solution and he was satisfied with it. He asked me to code it. I wrote the code. He read my code and was satisfied with it. He then asked me to improve runtime (not the time complexity) if the points are uniformly and randomly generated. I gave him some ideas and he was satisfied with that. I changed my code accordingly. In the end, he asked me if I had any questions for him.
+
+After 1 week, I was told that feedback for telephonic round is positive and then next 2 rounds were scheduled.
+
+2. First Virtual Onsite (Nov 2021)- This round was cakewalk for me. Interviewer directly started with the first problem. It was Leetcode easy level I think. It was just basic implementation. I explained him and wrote code. He told me to dry run the code on test case given by him. While dry running, I found 1 error and fixed it. He moved onto the follow up. The input of the follow up was output of the first problem. The problem would be Leetcode med level. In fact a similar problem already exists on Leetcode. It was application of multi source bfs. I wrote the code pretty quickly. He told me to check for some errors. I checked and there were some typos. I corrected them and then he asked me if I could not extra vis array and reduce space. I did that. He looked satisfied. This interview ended in only 25 min out of given 45 min.
+
+3. Second Virtual Onsite (Nov 2021)- This was the hardest round I guess. There were 2 problems and both were based on playing cards. First one was pretty easy- just simple implementation. Then he gave the follow up. I gave him brute force solution and then asked me to optimize it. I didn't have any good ideas for some time. I gave him 2-3 approaches but some of them were either wrong or not optimal. I felt a bit nervous and I didn't get any idea. He also didn't give me any hint :frowning: After that an optimal solution came in my mind and I told him. It was different from what he wanted. So, he changed the constraints of one term to make my solution exponential. He then gave me a hint. Then, I told him another solution. He was satisfied with it. But then he again changed constraints of one more term. I felt like dying. I told him the solution for final constraints. He asked me to code it. The input format was difficult to parse. So, I asked him if I could assume input as array of array of integers for simplicity. He said ok. First, I had some issues with implementation but was finally able to implement it. He asked me to check for some error. I immediately realized a logical error. I fixed it. I wrote the final complexity. Then he bombarded me with 5-6 GNL questions. Overall, this was the hardest of all and went for complete 1 hr.
+
+After a little more than 2 weeks, I was told that feedback for onsites is positive and then the last round was scheduled.
+
+4. Third (last) Virtual Onsite (Dec 2021)- This was a different kind of round. I had to implement 5-6 functions that took object of entity as parameter. The entity could be a file or directory with some properties. Some of the functions were pretty easy and some were medium. I was able to write codes for all functions fluently except for one. For that one, he told me to dry run code for given test case and then I understood the logical error. I fixed the error. Overall, this round was quite interactive and I quite liked it. Regarding the concepts, this round tested- oops, trees, lazy caching/dp, updating the cached values etc. Then there was 10-15 min GNL round. It went well.
+
+I haven't got the final results yet. I am very nervous. What do you think guys? Will I be able to make it?
