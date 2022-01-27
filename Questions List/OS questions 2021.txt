@@ -1,0 +1,7 @@
+When is multi threading not useful?
+What is TLB?
+DIfference between Paging and Segmentation?
+What is Paging?
+What is Virtual Memory?
+What is Page fault?
+What is Cache?
