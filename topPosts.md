@@ -1,0 +1,45 @@
+"Top LeetCode posts that you cannot miss"
+
+For Online Assessment + Phone Screen + Onsite Rounds:
+https://lnkd.in/dXB7xbsc
+https://lnkd.in/dhgnCHDh
+https://lnkd.in/dV65F9s2
+https://lnkd.in/dmMsTEXb
+https://lnkd.in/dyCbzm7P
+https://lnkd.in/dvPHRbi3
+https://lnkd.in/d5C5AfDB
+
+
+For Behavioural Rounds:
+https://lnkd.in/daWKBYxu
+https://lnkd.in/d2VThaPC
+https://lnkd.in/dUAGGSRg
+https://lnkd.in/dV9kQ2e9
+https://lnkd.in/dRsXPyfW
+
+
+For System Design Rounds (LLD + HLD):
+https://lnkd.in/dYqeeU8v
+https://lnkd.in/gZ_AEPTP
+https://lnkd.in/dFXbu9sk
+https://lnkd.in/dCcyUVuJ
+https://lnkd.in/dcu9mZeF
+https://lnkd.in/dFBM9aPg!
+https://lnkd.in/ddv7-88p
+
+
+Top Interview Experiences to go through:
+https://lnkd.in/d5THPkkW
+https://lnkd.in/d9cTpYKE
+https://lnkd.in/dcAdcben
+https://lnkd.in/dhFyWtEf
+
+https://leetcode.com/discuss/interview-experience/776280/Google-or-L3-or-Bangalore-or-July-2020-Offer
+https://leetcode.com/discuss/interview-experience/455354/Give-Away-Mistakes-i-did-in-interview-and-which-should-be-avoided.
+https://leetcode.com/discuss/interview-experience/646712/FAANG-Struggle-to-Offer-Amazon-or-SDE2-or-Seattle-or-May-2020-Offer
+
+5) Some Strategies To Follow:
+https://leetcode.com/discuss/study-guide/698684/Interview-Preparation-for-Beginners-DS-or-Algorithms-or-OS-or-System-Design
+https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE
+https://leetcode.com/discuss/study-guide/623011/A-guide-for-dummies-(like-me)
+https://leetcode.com/discuss/study-guide/2009997/How-to-get-started-with-DSA-and-practice-Leetcode-Efficiently
