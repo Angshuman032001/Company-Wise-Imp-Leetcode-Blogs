@@ -33,6 +33,10 @@ Time when you helped someone in their work.
 Time when you helped someone grow in career and it benefited them.
 Time when you helped someone grow but did not benefit them.
 Time when you were 75% through a project and realized you had the wrong goal.
+
+1. Tell me a time when you took a risk, did it pay off? What would have you done differently?
+2. Have you ever failed at something? What did you learn from it?
+3. Have you ever had to make a tough decision without consulting anybody? (bias for action)
 Time when your team members were not supporting something but you pushed and went for a more optimal solution.
 Time when you pushed back a decision from your management for better long term benefits.
 Time when you failed to meet your commitment
